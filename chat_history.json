@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "content": "during the open debate and find"
+  },
+  {
+    "role": "assistant",
+    "content": "What should I search for or locate for you?"
+  },
+  {
+    "role": "user",
+    "content": "start a background task named sleeve job for the command just make the system weight or time out for 20 seconds"
+  },
+  {
+    "role": "assistant",
+    "content": "The “sleeve job” background task is now running and will pause for 20 seconds."
+  },
+  {
+    "role": "user",
+    "content": "what 45 X 82 is what 42 X 82 is"
+  },
+  {
+    "role": "assistant",
+    "content": "45 × 82 = 3,690; 42 × 82 = 3,444."
+  },
+  {
+    "role": "user",
+    "content": "start a background task name the broken script for the command just run the words fake command 1 2 3"
+  },
+  {
+    "role": "assistant",
+    "content": "The background task “the broken script” is now running."
+  },
+  {
+    "role": "user",
+    "content": "give status report to hair read"
+  },
+  {
+    "role": "assistant",
+    "content": "Current tasks: “open_google_10_times”, “ping job”, and “sleeve job” completed; “big job” and “the broken script” failed."
+  },
+  {
+    "role": "user",
+    "content": "ok so please try to talk"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure, I’m here and ready to help."
+  }
+]

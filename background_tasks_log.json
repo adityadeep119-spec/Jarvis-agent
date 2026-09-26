@@ -1,0 +1,22 @@
+{
+    "open_google_10_times": {
+        "status": "completed",
+        "output": "C:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\" \n\nC:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\" \n\nC:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\" \n\nC:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\" \n\nC:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\" \n\nC:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\" \n\nC:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\" \n\nC:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\" \n\nC:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\" \n\nC:\\Users\\DEEP ADITYA\\jarvis_assistant>start \"\" \"https://www.google.com\""
+    },
+    "ping job": {
+        "status": "completed",
+        "output": "Pinging 1.1.1.1 with 32 bytes of data:\nReply from 1.1.1.1: bytes=32 time=17ms TTL=58\nReply from 1.1.1.1: bytes=32 time=18ms TTL=58\nReply from 1.1.1.1: bytes=32 time=52ms TTL=58\nReply from 1.1.1.1: bytes=32 time=110ms TTL=58\nReply from 1.1.1.1: bytes=32 time=18ms TTL=58\n\nPing statistics for 1.1.1.1:\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\nApproximate round trip times in milli-seconds:\n    Minimum = 17ms, Maximum = 110ms, Average = 43ms"
+    },
+    "big job": {
+        "status": "failed",
+        "output": ""
+    },
+    "sleeve job": {
+        "status": "completed",
+        "output": "Waiting for 20 seconds, press a key to continue ...\b\b19\b\b18\b\b17\b\b16\b\b15\b\b14\b\b13\b\b12\b\b11\b\b10\b\b 9\b\b 8\b\b 7\b\b 6\b\b 5\b\b 4\b\b 3\b\b 2\b\b 1\b\b 0"
+    },
+    "the broken script": {
+        "status": "failed",
+        "output": "'fake' is not recognized as an internal or external command,\noperable program or batch file."
+    }
+}
